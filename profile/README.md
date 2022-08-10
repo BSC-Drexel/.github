@@ -1,6 +1,6 @@
 # About the BSC
 
-Welcome to the Biostatistics Scientific Collaboration Center (BSC) GitHub Repository! The BSC is based in the Department of Epidemiology and Biostatistics at the Dornsife School of Public Health.
+Welcome to the Biostatistics Scientific Collaboration Center (BSC) GitHub page! The BSC is based in the Department of Epidemiology and Biostatistics at the Dornsife School of Public Health of Drexel University.
 
 If you are looking for team members who can contribute data management best practices, participate in study design, and provide statistical collaboration, then you have come to the right place. 
 
